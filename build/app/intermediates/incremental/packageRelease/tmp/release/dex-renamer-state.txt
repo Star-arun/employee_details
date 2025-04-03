@@ -1,0 +1,4 @@
+#Thu Apr 03 11:44:05 IST 2025
+base.0=D\:\\Arun\\29-05-25 Task\\01-04-25 ui task\\task_two\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

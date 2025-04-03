@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\Arun\29-05-25 Task\01-04-25 ui task\task_two\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    agpVersion="8.1.0"
+    buildFolder="D:\Arun\29-05-25 Task\01-04-25 ui task\task_two\build\app"
+    bootClassPath="C:\Users\Admin\AppData\Local\Android\Sdk\platforms\android-34\android.jar;C:\Users\Admin\AppData\Local\Android\Sdk\build-tools\33.0.1\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
